@@ -1,0 +1,110 @@
+h2 {
+    background-color: purple;
+    color: white;
+    font-family: Source Code Pro;
+    padding: 30px;
+    width: 260px;
+   
+  }
+  
+  .Title {
+    position: relative;
+    left: 600px;
+    font-family: Source Code Pro;
+  }
+  
+   
+  
+  .Professional-Skill{
+    padding: 30px;
+    position: absolute;
+    top: 450px;
+    left: 200px; 
+    width: 300px;
+    height: 300px;  
+  }
+  
+  
+  .Technical-Skill {
+    padding: 30px;
+    position: absolute;
+    top: 450px;
+    left: 800px; 
+    width: 300px;
+    height: 300px;
+  
+  }
+  
+  .Contact {
+    color: blue;
+    position: relative;
+    left: -90px;
+  }
+  h3 {
+    position: relative;
+    left: -40px;
+    font-family: Source Code Pro;
+  }
+  body {
+    position: body;
+    left: 500px;
+  }
+  
+  .Education {
+    padding: 30px;
+    position: absolute;
+    top: 727px;
+    left: 200px; 
+    width: 300px;
+    height: 300px;  
+  }
+  
+  .Language{
+    padding: 30px; 
+    position: absolute;
+    top: 727px;
+    left: 800px; 
+    width: 300px;
+    height: 300px;
+  }
+  
+  p {
+    font-family: Source Code Pro;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  
+  body {background-image: url(images/background\ pattern-03.png);
+  padding: 0px;}  
+  
+  
+  
+  
+  .Welcome {
+     position: relative;
+     width: 2500px;
+     left: -9px; 
+     background-color: white;
+  }
+  
+  
+  .Bye {
+     position: relative;
+     width: 2500px;
+     top: 800px;
+     left: -9px; 
+     background-color: white;
+  }
+  
+  .SallyChoTop {
+    display: flex;
+    flex-wrap: nowrap;
+    position: relative;
+    left: 0px;
+    
+    
+  }
+  
