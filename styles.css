@@ -108,7 +108,9 @@ h2 {
     
   }
 
-   #fullscreen :-moz-full-screen {
+@media only screen and (max-width: 600px) {
+  body {
     font-size: 14px;
-   }
+  }
+}
   
