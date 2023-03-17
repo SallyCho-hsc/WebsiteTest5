@@ -107,4 +107,8 @@ h2 {
     
     
   }
+
+   #fullscreen :-moz-full-screen {
+    font-size: 14px;
+   }
   
